@@ -1,0 +1,24 @@
+body{
+    background-color: #E8F4F8;
+    font-family: Arial;
+}
+
+h1{
+    color: green;
+    font-size: 32px;
+    background-color: #DFF0D8;
+    text-align: center;
+}
+
+h2{
+    color: blue;
+    font-size: 26px;
+    background-color: #D9EAF7;
+}
+
+p{
+    color: #333333;
+    font-size: 18px;
+    font-weight: bold;
+}
+
